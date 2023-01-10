@@ -1,7 +1,7 @@
 package clases;
 
 public abstract class Deportista {
-	private String nombre;
+	private String nombre; 
 
 	public Deportista(String nombre) {
 		super();
