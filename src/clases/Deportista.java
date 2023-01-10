@@ -1,5 +1,5 @@
 package clases;
 
-public abstract class Deportista {
+public class Deportista {
 
 }
