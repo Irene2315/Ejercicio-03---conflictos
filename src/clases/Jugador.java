@@ -1,5 +1,7 @@
 package clases;
 
-public class Jugador {
+public class Jugador extends Deportista {
+	
+	
 
 }
